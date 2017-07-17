@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+.idea/
+target/
+out/
+
+
+WeleniumLibrary/WeleniumLibrary.iml
+UIBox/UIBox.iml
+Webdriver/Webdriver.iml
