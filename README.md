@@ -6,11 +6,16 @@
 
 ## Code Samples
 
-> To run a automation test, run "mvn clean && mvn verify -f UIBox/pom.xml -Dtest=weleniumTests.automationTests.**".
+> To run a automation test, run 
+```
+mvn clean && mvn verify -f UIBox/pom.xml -Dtest=weleniumTests.automationTests
+```
 
 ## Installation
 
 > You will need to ensure that Glassfish is installed on your machine and deployed to the test websites before execution, this can be done through IntelliJ IDEA.
 
 
-" ** TestA or TestB or Test C"
+```
+TestA or TestB or Test C
+```
